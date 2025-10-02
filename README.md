@@ -1,2 +1,2 @@
 # Grading-System
-A basic calculator app
+A Grading System for beginners
